@@ -1,3 +1,22 @@
+文件结构
+```
+tree
+ ┣ back                 后端题目文件夹
+ ┃ ┣ copy
+ ┃ ┃ ┗ index.js         第三题：copy a large file with progress  
+ ┃ ┣ server 
+ ┃ ┃ ┗ index.js         第一题：http server
+ ┃ ┗ serverWithSchema   
+ ┃ ┃ ┗ index.js         第二题：express with graphQl
+ ┗ front                    
+ ┃ ┗ src 
+ ┃ ┃ ┗ app
+ ┃ ┃ ┃ ┗ pages
+ ┃ ┃ ┃ ┃ ┗ appointments
+ ┃ ┃ ┃ ┃ ┃ ┗ index.tsx  前端题：日历的的代码入口文件
+```
+
+
 # 前端题目
 ### 运行 
 ```
